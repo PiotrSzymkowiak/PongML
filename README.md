@@ -1,0 +1,1 @@
+It's a Pong game with machine learning made in Unity. It is a part of the tutorial on Udemy - "A Begginner's Guide to Machine Learning with Unity" and extended to 2 competitive playing neural networks. 
